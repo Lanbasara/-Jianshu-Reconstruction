@@ -5,8 +5,8 @@
 
 ## Main Components
 * Header
-* Search bar
+* Search bar with animation and recommend bar
 * Information List + loading bar
 * Login page
 * Data mock
-![Home Page](https://github.com/Lanbasara/ordersystem/blob/master/1.png)
+![Home Page](https://github.com/Lanbasara/-Jianshu-Reconstruction/blob/master/jianshu.png)
